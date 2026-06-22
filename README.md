@@ -4,8 +4,8 @@ Project Overview:
 This project focuses on analyzing the Superstore retail dataset using SQL to uncover business insights related to sales performance, profitability, customer segments, regional performance, and discount impact. The objective was to transform raw business data into meaningful insights that support data-driven decision-making.
 
 Tools Used:
--MySQL
--SQL
+* MySQL
+* SQL
 
 Dataset Information:
 * Total Records: 9,994
@@ -63,8 +63,8 @@ Project Files
 This project demonstrates practical SQL skills including data cleaning, exploratory data analysis (EDA), business KPI analysis, profitability analysis, subqueries, and business insight generation using real-world retail data.
 
 Author
-Yaswanth Siva Reddy Kethu
-Aspiring Data Analyst
+* Yaswanth Siva Reddy Kethu
+* Aspiring Data Analyst
 
 LinkedIn: https://www.linkedin.com/in/kethu-yaswanth-siva-reddy
 
